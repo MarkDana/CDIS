@@ -1,6 +1,6 @@
 # When Selection Meets Intervention: Additional Complexities in Causal Discovery
 
-[Paper](https://arxiv.org/abs/2403.15500) by [Haoyue Dai](https://hyda.cc), [Ignavier Ng](https://ignavierng.github.io/), [Jianle Sun](https://sjl-sjtu.github.io), [Zeyu Tang](https://zeyu.one), [Gongxu Luo](https://scholar.google.com/citations?hl=zh-CN&user=1qoKnMQAAAAJ&view_op=list_works&sortby=pubdate), [Xinshuai Dong](https://dongxinshuai.github.io), [Peter Spirtes](https://www.cmu.edu/dietrich/philosophy/people/faculty/spirtes.html), [Kun Zhang](https://www.andrew.cmu.edu/user/kunz1/index.html). Appears at ICLR 2025 (oral).
+[Paper](https://arxiv.org/abs/2503.07302) by [Haoyue Dai](https://hyda.cc), [Ignavier Ng](https://ignavierng.github.io/), [Jianle Sun](https://sjl-sjtu.github.io), [Zeyu Tang](https://zeyu.one), [Gongxu Luo](https://scholar.google.com/citations?hl=zh-CN&user=1qoKnMQAAAAJ&view_op=list_works&sortby=pubdate), [Xinshuai Dong](https://dongxinshuai.github.io), [Peter Spirtes](https://www.cmu.edu/dietrich/philosophy/people/faculty/spirtes.html), [Kun Zhang](https://www.andrew.cmu.edu/user/kunz1/index.html). Appears at ICLR 2025 (oral).
 
 *In experimental studies, subjects are usually selectively enrolled–for example, participants in a drug trial are typically already patients of the relevant disease. What causal relations can we reliably identify from such biased interventional data, and how? The answer might be more complex than it seems at first glance.*
 
